@@ -1,0 +1,12 @@
+[
+    {
+        "name": "OCSESSID",
+        "value": "845a6ea99b497f787e545fa506",
+        "domain": "localhost",
+        "path": "/administration/",
+        "expires": 1700397585.273212,
+        "httpOnly": false,
+        "secure": false,
+        "sameSite": "Strict"
+    }
+]
